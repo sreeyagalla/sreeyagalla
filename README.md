@@ -9,7 +9,7 @@ Skills: C, Python, R, SQL, HTML,Tableau, Power BI, Flourish, Data wrapper
 - 👯 I’m looking to collaborate on Projects related to healthcare data analysis and predictive modeling. 
 - 🤔 I’m looking for help with Optimizing SQL queries for large-scale data processing. 
 - 💬 Ask me about Data visualization best practices and storytelling with data. 
-- 📫 How to reach me: You can reach me via email at sreeyagalla@example.com. 
+- 📫 How to reach me: You can reach me via email at galla.n@northeastern.edu
 - ⚡ Fun fact: I love to paint ! 
 
 
